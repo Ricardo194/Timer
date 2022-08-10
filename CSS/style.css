@@ -1,0 +1,33 @@
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blueviolet;
+  width: 100vw;
+  height: 100vh;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2rem solid rgb(125, 117, 117);
+  background-color: white;
+  width: 40vw;
+  height: 40vh;
+}
+
+.relogio{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.horas{
+
+  font-size: 5rem;
+  font-weight: bold;
+}
+
+
